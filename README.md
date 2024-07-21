@@ -191,3 +191,6 @@ test_invalid_min_max_input: Validates logical handling of non-numeric min and ma
 test_large_input_values: Ensures that large input values are logically handled.
 test_function_with_missing_parentheses: Validates logical handling of missing parentheses in the function.
 test_function_with_unrecognized_functions: Ensures that unrecognized functions are logically handled.
+
+
+*******THATS IT!*******
